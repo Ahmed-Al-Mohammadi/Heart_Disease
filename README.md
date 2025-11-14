@@ -67,8 +67,8 @@ To set up and run this project locally, follow these steps:
 **1. Clone the Repository:**
 
 ```bash
-git clone https://github.com/[Your-Username]/[Your-Repo-Name].git
-cd [Your-Repo-Name]
+git clone https://github.com/Ahmed-Al-Mohammadi/Heart_Disease.git
+cd Heart_Disease
 ```
 
 **2. (Optional) Create a Virtual Environment:**
