@@ -13,7 +13,6 @@ An end-to-end machine learning project to analyze heart patient data, train a mo
 
 This interactive application, built with `Streamlit`, allows a user to input medical data and receive an immediate prediction about the likelihood of having heart disease.
 
-*(It is highly recommended to add a screenshot or GIF of your Streamlit app in action here)*
 
 ## ✨ Features
 
